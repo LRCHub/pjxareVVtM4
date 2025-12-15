@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Waterproof",
+  "base_artist": "milet",
+  "createdAt": "2025-12-15T16:58:17.126890Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Waterproof",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/01_Waterproof_Sparks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Waterproof",
+      "artist": "Sparks",
+      "has_synced": true,
+      "path": "select/02_Waterproof_Sparks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Waterproof Mascara",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/03_Waterproof_Mascara_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "waterproof",
+      "artist": "guardin",
+      "has_synced": true,
+      "path": "select/04_waterproof_guardin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lovers Are Waterproof",
+      "artist": "Herman Dune",
+      "has_synced": false,
+      "path": "select/05_Lovers_Are_Waterproof_Herman_Dune.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Waterproof",
+      "artist": "77 Bombay Street",
+      "has_synced": true,
+      "path": "select/06_Waterproof_77_Bombay_Street.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Waterproof",
+      "artist": "77 Bombay Street",
+      "has_synced": true,
+      "path": "select/07_Waterproof_77_Bombay_Street.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Waterproof",
+      "artist": "This Is the Kit",
+      "has_synced": false,
+      "path": "select/08_Waterproof_This_Is_the_Kit.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just Close Your Eyes (Christian) (Feat. Waterproof Blonde)",
+      "artist": "WWE",
+      "has_synced": true,
+      "path": "select/09_Just_Close_Your_Eyes_(Christian)_(Feat._Waterproof_Blonde)_WWE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Waterproof Mascara",
+      "artist": "Sheryl Crow",
+      "has_synced": true,
+      "path": "select/10_Waterproof_Mascara_Sheryl_Crow.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Waterproof",
+      "artist": "Slappy Av",
+      "has_synced": true,
+      "path": "select/11_Waterproof_Slappy_Av.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Waterproof Theme",
+      "artist": "Torul",
+      "has_synced": false,
+      "path": "select/12_Waterproof_Theme_Torul.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Waterproof",
+      "artist": "Funny Rage",
+      "has_synced": true,
+      "path": "select/13_Waterproof_Funny_Rage.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Waterproof",
+      "artist": "Overhead",
+      "has_synced": false,
+      "path": "select/14_Waterproof_Overhead.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Waterproof",
+      "artist": "Shelmi",
+      "has_synced": true,
+      "path": "select/15_Waterproof_Shelmi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Waterproof Theme (Frozen Plasma remix)",
+      "artist": "Torul",
+      "has_synced": false,
+      "path": "select/16_Waterproof_Theme_(Frozen_Plasma_remix)_Torul.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Chuck Taylor Waterproof (feat. K The Martian)",
+      "artist": "Khoa Wzzzy",
+      "has_synced": true,
+      "path": "select/17_Chuck_Taylor_Waterproof_(feat._K_The_Martian)_Khoa_Wzzzy.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Waterproof Mascara",
+      "artist": "Crow, Sheryl",
+      "has_synced": true,
+      "path": "select/18_Waterproof_Mascara_Crow,_Sheryl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Waterproof",
+      "artist": "milet",
+      "has_synced": false,
+      "path": "select/pl_01_Waterproof_milet.txt"
+    }
+  ]
+}
